@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "category": "smartphones"
+    },
+    {
+        "id": 2,
+        "title": "Samsung",
+        "description": "Samsung smart phone with new feature",
+        "price": 350,
+        "category": "smartphones"
+    },
+    {
+        "id": 3,
+        "title": "Headphone",
+        "description": "Wireless head phone",
+        "price": 100,
+        "category": "earplug"
+    },
+    {
+        "id": 4,
+        "title": "Television",
+        "description": "smart tv",
+        "price": 100,
+        "category": "tv"
+    },
+    {
+        "id": 5,
+        "title": "Watch",
+        "description": "smart watch",
+        "price": 100,
+        "category": "gadget"
+    },
+    {
+        "id": 6,
+        "title": "Watch1",
+        "description": "smart watch1",
+        "price": 232,
+        "category": "gadget"
+    },
+    {
+        "id": 7,
+        "title": "tv1",
+        "description": "smart tv1",
+        "price": 232,
+        "category": "tv"
+    },
+    {
+        "id": 8,
+        "title": "tv2",
+        "description": "smart watch1",
+        "price": 290,
+        "category": "tv"
+    },
+    {
+        "id": 9,
+        "title": "Watch1",
+        "description": "smart watch1",
+        "price": 232,
+        "category": "gadget"
+    },
+    {
+        "id": 10,
+        "title": "Watch1",
+        "description": "smart watch1",
+        "price": 232,
+        "category": "gadget"
+    },
+    {
+        "id": 11,
+        "title": "Watch1",
+        "description": "smart watch1",
+        "price": 232,
+        "category": "gadget"
+    },
+    {
+        "id": 12,
+        "title": "Headphone2",
+        "description": "Wireless head pp1",
+        "price": 190,
+        "category": "earplug"
+    },
+    {
+        "id": 13,
+        "title": "Headphone3",
+        "description": "Wireless head phone3",
+        "price": 160,
+        "category": "earplug"
+    },
+    {
+        "id": 14,
+        "title": "Headphone4",
+        "description": "Wireless head phone4",
+        "price": 170,
+        "category": "earplug"
+    }
+
+
+]
