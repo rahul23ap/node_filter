@@ -2,7 +2,6 @@ import express,{Request, Response} from 'express';
 import * as fs from 'fs';
 import * as _ from 'lodash';
 //var _ = require("loadash");
-
 //import { Request } from 'undici-types';
 const router = express.Router();
 const dbPath = './src/data/products.json';
